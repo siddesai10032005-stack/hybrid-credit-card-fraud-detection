@@ -1,0 +1,9 @@
+Rule,Blocked,Fraud_Caught,Legitimate_Blocked,Fraud_Missed,Precision,Recall
+Current: hybrid >= 0.51,3603,1832,1771,313,0.5085,0.8541
+High ML >= 0.80,1793,1359,434,786,0.7579,0.6336
+ML >= 0.70 + behavior >= 0.50,1452,1224,228,921,0.843,0.5706
+ML >= 0.70 + 2+ behavior anomalies,1591,924,667,1221,0.5808,0.4308
+ML >= 0.75 + unusual time,1840,1317,523,828,0.7158,0.614
+ML >= 0.75 + amount/location,760,545,215,1600,0.7171,0.2541
+ML >= 0.75 + strong behavior,1354,1042,312,1103,0.7696,0.4858
+Very high ML >= 0.90,1160,1057,103,1088,0.9112,0.4928

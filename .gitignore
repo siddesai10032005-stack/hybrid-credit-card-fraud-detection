@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/*.csv
+data/processed/customer_profiles/
+
+models/*.pkl
+
+*.zip
+*.log
+*.tmp
+
+.streamlit/secrets.toml
