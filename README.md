@@ -1,4 +1,3 @@
-python3 - <<'PY'
 from pathlib import Path
 
 # 💳 Hybrid Two-Stage Credit Card Fraud Detection
