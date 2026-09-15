@@ -1,7 +1,7 @@
 python3 - <<'PY'
 from pathlib import Path
 
-content = """# 💳 Hybrid Two-Stage Credit Card Fraud Detection
+# 💳 Hybrid Two-Stage Credit Card Fraud Detection
 
 A two-stage machine learning system combining transaction-level fraud detection with customer behavioral verification.
 
